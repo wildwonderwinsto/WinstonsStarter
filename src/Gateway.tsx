@@ -10,8 +10,7 @@ const WinstonsGateway: React.FC = () => {
   // Define your server mirrors here
   const schoolServers = [
     'https://beanstonswebsites.onrender.com',
-    'https://school-server2.example.com',
-    'https://school-server3.example.com'
+
   ];
 
   const homeServers = [
