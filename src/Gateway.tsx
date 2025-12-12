@@ -9,15 +9,15 @@ const WinstonsGateway: React.FC = () => {
 
   // Define your server mirrors here
   const schoolServers = [
-    'https://school-server1.example.com',
+    'https://beanstonswebsites.onrender.com',
     'https://school-server2.example.com',
     'https://school-server3.example.com'
   ];
 
   const homeServers = [
-    'https://home-server1.example.com',
-    'https://home-server2.example.com',
-    'https://home-server3.example.com'
+    'https://winstonswebsites.onrender.com',
+    'https://winstonswebsite-q90v.onrender.com',
+    'https://winstonswebsite.onrender.com'
   ];
 
   const handleLocationSelect = (location: 'school' | 'home') => {
